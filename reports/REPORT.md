@@ -95,7 +95,7 @@ Lab hôm nay chỉ **xem prediction**. Chuỗi dưới đây là vòng đời pr
 1. Quy tắc bảo vệ dữ liệu của bạn cho bài lab này là gì? (viết 1 câu)
    -> Chỉ dùng ảnh COCO công khai có sẵn trong notebook; tuyệt đối không tải ảnh cá nhân hay dữ liệu nội bộ lên Colab/GitHub.
 2. Nếu gặp ảnh hoặc dữ liệu không đúng phạm vi, bạn sẽ dừng và báo cho ai?
-   -> Mình sẽ dừng thao tác lại và báo ngay cho Lab Coach / Giảng viên phụ trách để xin hướng dẫn.
+   -> Mình sẽ dừng thao tác lại và báo ngay cho Lab Coach hoặc giảng viên phụ trách để xin hướng dẫn.
 
 ## 6. Checklist trước khi nộp link repo
 
